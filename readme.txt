@@ -1,3 +1,6 @@
+This is just the README for the font I downloaded. Oh well.
+
+
 
 True Type Font: Arial Narrow 7 version 1.0
 
